@@ -1,0 +1,19 @@
+{
+  "name": "claude-account-forge",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Interactive Claude account helper: generate a disposable email, read the verification code",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/index.js",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.2"
+  }
+}
