@@ -1,3 +1,19 @@
+# To setup (btw i made the readme with ai so she forgot)
+
+download node.js at : https://nodejs.org/
+
+when you download node.js open an cmd and put : npm install -D typescript
+
+then download the zip file on the github you just go on https://github.com/NexozDeveloper/Claude-Account-Generator-By-Nexoz/ you click code and you click download zip then you extract then you go on the unzipped file and you right click on the next folder and you clcik open in cmd or terminal if you are on win 11 or win 10 and you put 
+
+1. npm install
+
+2. npm run build
+
+3. npm start
+
+and here have fun!
+
 # Claude Account Generator
 
 Interactive terminal tool for creating a Claude account. It creates a disposable
